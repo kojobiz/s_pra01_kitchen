@@ -1,0 +1,11 @@
+.l-header {
+    width:100%;
+    height: auto;
+}
+.l-header__inner-pc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto 1rem;
+}
+
