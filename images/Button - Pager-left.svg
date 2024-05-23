@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Button_Pager-left" data-name="Button / Pager-left" transform="translate(-80 -315)">
+    <rect id="Container" width="64" height="64" transform="translate(80 315)" fill="none"/>
+    <path id="Icon_Arrow-left" data-name="Icon / Arrow-left" d="M0,32V0H32V4H4V32Z" transform="translate(98 346.627) rotate(-45)" fill="#fff"/>
+  </g>
+</svg>

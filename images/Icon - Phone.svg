@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="16" height="16" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Phone" data-name="Icon / Phone" transform="translate(-715 -4709)">
+    <rect id="Box" width="20" height="20" transform="translate(715 4709)" fill="none"/>
+    <g id="Icon" transform="translate(717 4711)" clip-path="url(#clip-path)">
+      <path id="合体_15" data-name="合体 15" d="M0,2.124H0c0-.016,0-.032,0-.048H.017c.1-.31.633-2,1.457-2.075A8.1,8.1,0,0,1,5.186.915c.454.321.748,3.281.8,3.8A14.152,14.152,0,0,0,9,5.031a13.856,13.856,0,0,0,3.39-.4c.068-.705.356-3.41.789-3.715A8.1,8.1,0,0,1,16.891,0c.822.077,1.057,1.765,1.1,2.075H18c0,.011,0,.023,0,.034a.065.065,0,0,0,0,.015l0,.007C17.941,4.82,13.928,7,9,7S.049,4.817,0,2.124Z" transform="translate(4.191 0) rotate(49)"/>
+    </g>
+  </g>
+</svg>
